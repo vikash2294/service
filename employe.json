@@ -1,0 +1,30 @@
+[
+    {
+        "id" :"Emp101",
+        "firstName" : "shyam",
+        "lastName" : "shyam",
+        "salary" : 1000,
+        "dob" : "10/05/2017"
+    },
+    {
+        "id" :"Emp102",
+        "firstName" : "sohan",
+        "lastName" : "sahu",
+        "salary" : 1001,
+        "dob" : "10/05/2014"
+    },
+    {
+        "id" :"Emp103",
+        "firstName" : "sonu",
+        "lastName" : "yakub",
+        "salary" : 1000,
+        "dob" : "10/05/2011"
+    },
+    {
+        "id" :"Emp104",
+        "firstName" : "rojan",
+        "lastName" : "lala",
+        "salary" : 1000,
+        "dob" : "10/05/2012"
+    }
+]
